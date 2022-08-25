@@ -110,13 +110,14 @@
               <div class=" card wow fadeInUp" style="animation-delay: 1s;">
                 <div class="card-img py-4">
                   <img src="img/icons8-plane-64.png" alt="">
+                  <img src="img/icons8-cargo-ship-64.png" alt="">
                 </div>
-               <p class=""><b>Air or Ocean Freight Transportation</b></p> 
+               <p class="textt"><b>Air or Ocean Freight Transportation</b></p> 
               </div>
             </div>
             <div class="col-lg-3 col-md-6 my-2">
               <div class=" card wow fadeInUp" style="animation-delay: 2s;"> 
-                <div class="card-img py-2 ">
+                <div class="card-img py-3 ">
                   <img src="img/icons8-warehouse-64.png" alt="">
                 </div>
                 <p class="text-left"><b>Preparation of documentation with Warehousing and storage services.</b></p>
@@ -124,18 +125,18 @@
             </div>
             <div class="col-lg-3 col-md-6 my-2">
               <div class=" card wow fadeInUp" style="animation-delay: 3s;">
-                <div class="card-img py-3">
-                  <img src="img/icons8-fast-delivery-64.png " alt="">
+                <div class="card-img py-3 ">
+                  <img src="img/icons8-logistics-64.png" alt="">
                 </div>
-                <p class="text-left"><b>Inland transportation <br> from origin and/or to destination.</b></p>
+                <p class="text-left"><b>Cargo insurance and customs compliance; Consolidation </b></p>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 my-2">
               <div class=" card wow fadeInUp" style="animation-delay: 4s;">
-                <div class="card-img py-2 ">
-                  <img src="img/icons8-logistics-64.png" alt="">
+                <div class="card-img py-2">
+                  <img src="img/icons8-fast-delivery-64.png " alt="">
                 </div>
-                <p class="text-left"><b>Cargo insurance <br> and customs compliance; Consolidation and deconsolidation.</b></p>
+                <p class="text-left"><b>Inland transportation <br> from origin and/or to destination.</b></p>
               </div>
             </div>
           </div>

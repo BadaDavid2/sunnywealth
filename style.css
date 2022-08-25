@@ -95,6 +95,7 @@ nav{
 }
 .logo img{
     width: 100%;
+    image-rendering: crisp-edges;
 }
 .navs ul{
     display: flex;
@@ -227,7 +228,7 @@ nav{
 }
 @media screen and (max-width:800px) {
     .logo{
-        width: 500px;
+        width: 1800px !important;
     }
     .section2{
         margin-top: -120px;
@@ -440,4 +441,7 @@ footer ul li img{
 .foot a{
     color: white !important;
     text-decoration: none !important;
+}
+.textt{
+    margin-bottom: 30px;
 }
