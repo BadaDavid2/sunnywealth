@@ -269,7 +269,7 @@
     <div class="foot py-2 mt-1">
       <div class="container">
         <div class="">&copy; Sunny Wealth Limited</div>
-        <div class="">Developed by <a href="mailto:badadavid04@gmail.com" target="_blank">Bada O. David</a></div>
+        <!-- <div class="">Developed by <a href="mailto:badadavid04@gmail.com" target="_blank">Bada O. David</a></div> -->
       </div>
     </div>
     <div id="preloader"></div>
