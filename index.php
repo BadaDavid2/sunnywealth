@@ -160,7 +160,7 @@
         <div class="col-lg-6">
           <h3>our mission</h3>
           <p>To serve an International Freight Forwarder and Shipping agency Sunny Wealth has gone into operation with an answer to the forwarding and shipping problems encountered by exporters and importers in meeting with their delivery schedules with the best price. This has enabled us to be one of the leading companies in the field of shipping, freight forwarding, NVOCC operator, project handling and transportation in Nigeria within a short period of operation. <br>
-          CALL, the total transportation and logistics management organization, address the challenges on a global scale with its expertise and partners around the world, on a real time basis. Becoming the essential part of exporter-importer chain, the company incorporates the mechanism to provide a high quality professional link-up for the mutual benefits. ASLL, through its global network and standard personalized services have developed and is implementing comprehensive international transportation logistic program. </p>
+          Sunny Wealth Limited, the total transportation and logistics management organization, address the challenges on a global scale with its expertise and partners around the world, on a real time basis. Becoming the essential part of exporter-importer chain, the company incorporates the mechanism to provide a high quality professional link-up for the mutual benefits. ASLL, through its global network and standard personalized services have developed and is implementing comprehensive international transportation logistic program. </p>
         </div>
         <div class="col-lg-6">
           <h3>our vision</h3>
